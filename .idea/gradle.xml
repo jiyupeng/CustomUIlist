@@ -9,11 +9,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/downloadtest" />
-            <option value="$PROJECT_DIR$/hotfix" />
+            <option value="$PROJECT_DIR$/loadinganim" />
             <option value="$PROJECT_DIR$/lovecustomlayout" />
             <option value="$PROJECT_DIR$/recyclergallery" />
-            <option value="$PROJECT_DIR$/videotest" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

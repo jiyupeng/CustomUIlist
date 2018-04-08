@@ -1,1 +1,1 @@
-include ':app', ':recyclergallery', ':videotest', ':downloadtest', ':lovecustomlayout', ':hotfix'
+include ':app', ':recyclergallery', ':lovecustomlayout', ':loadinganim'

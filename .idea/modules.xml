@@ -4,11 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyApplication2.iml" filepath="$PROJECT_DIR$/MyApplication2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/downloadtest/downloadtest.iml" filepath="$PROJECT_DIR$/downloadtest/downloadtest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hotfix/hotfix.iml" filepath="$PROJECT_DIR$/hotfix/hotfix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loadinganim/loadinganim.iml" filepath="$PROJECT_DIR$/loadinganim/loadinganim.iml" />
       <module fileurl="file://$PROJECT_DIR$/lovecustomlayout/lovecustomlayout.iml" filepath="$PROJECT_DIR$/lovecustomlayout/lovecustomlayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/recyclergallery/recyclergallery.iml" filepath="$PROJECT_DIR$/recyclergallery/recyclergallery.iml" />
-      <module fileurl="file://$PROJECT_DIR$/videotest/videotest.iml" filepath="$PROJECT_DIR$/videotest/videotest.iml" />
     </modules>
   </component>
 </project>
